@@ -1,7 +1,0 @@
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/listener/ListenerRabbitMQ.java
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/SpringBootApplicationRunner.java
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/model/Event.java
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/config/ActiveMQConsumerConfig.java
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/model/UserExample.java
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/producer/JmsProducer.java
-/Users/drochale/Documents/Development/pessoal-projects/spring-boot-consumers-amqp/spring-boot-activemq-consumer/src/main/java/br/com/rocha/dan/consumers/kafka/controller/DefaultController.java
