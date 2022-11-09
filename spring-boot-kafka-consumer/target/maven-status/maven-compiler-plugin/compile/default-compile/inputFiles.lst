@@ -1,0 +1,8 @@
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/config/KafkaConsumerConfig.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/listener/ListenerKafka.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/config/KafkaTopicConfig.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/model/MessageRequest.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/config/KafkaProducerConfig.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/SpringBootApplicationRunner.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/controller/DefaultController.java
+/Users/drochale/Downloads/projeto-springboot3-main/src/main/java/br/com/rocha/dan/consumers/kafka/model/User.java

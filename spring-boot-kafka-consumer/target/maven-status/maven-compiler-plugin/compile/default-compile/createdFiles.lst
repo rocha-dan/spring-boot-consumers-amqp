@@ -1,0 +1,9 @@
+br/com/rocha/dan/consumers/kafka/config/KafkaConsumerConfig.class
+br/com/rocha/dan/consumers/kafka/model/User$UserBuilder.class
+br/com/rocha/dan/consumers/kafka/SpringBootApplicationRunner.class
+br/com/rocha/dan/consumers/kafka/listener/ListenerKafka.class
+br/com/rocha/dan/consumers/kafka/config/KafkaTopicConfig.class
+br/com/rocha/dan/consumers/kafka/model/MessageRequest.class
+br/com/rocha/dan/consumers/kafka/config/KafkaProducerConfig.class
+br/com/rocha/dan/consumers/kafka/model/User.class
+br/com/rocha/dan/consumers/kafka/controller/DefaultController.class
