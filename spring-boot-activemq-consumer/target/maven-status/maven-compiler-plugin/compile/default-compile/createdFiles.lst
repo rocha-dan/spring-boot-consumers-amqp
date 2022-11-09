@@ -1,0 +1,6 @@
+br/com/rocha/dan/consumers/kafka/listener/ListenerRabbitMQ.class
+br/com/rocha/dan/consumers/kafka/SpringBootApplicationRunner.class
+br/com/rocha/dan/consumers/kafka/model/UserExample.class
+br/com/rocha/dan/consumers/kafka/model/UserExample$UserExampleBuilder.class
+br/com/rocha/dan/consumers/kafka/model/Event$EventBuilder.class
+br/com/rocha/dan/consumers/kafka/model/Event.class
