@@ -1,1 +1,3 @@
-# spring-boot-consumers-amqp
+Different ways to consume messages through the amqp protocol
+
+
